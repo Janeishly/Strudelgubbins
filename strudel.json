@@ -1,4 +1,5 @@
 {
   "_base": "https://raw.githubusercontent.com/Janeishly/Strudelgubbins/refs/heads/main/",
-  "angelvoice": ["/samples/angelvoice/angelvoice.mp3"]
+  "angelvoice": ["/samples/angelvoice/angelvoice.mp3"],
+"bummer": ["/samples/bummer/bummer.wav"]
 }
