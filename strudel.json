@@ -1,7 +1,8 @@
 {
   "_base": "https://raw.githubusercontent.com/Janeishly/Strudelgubbins/main/",
-  "angelvoice": ["angelvoice.mp3"],
-  "anthemsnippet": ["anthemsnippet.mp3"],
+  "jungbleep": ["jungbleep.wav"],
+  "bummer": ["bummer.mp3"],
   "rings": ["rings.mp3"],
+  "tbd": ["tbd.mp3"],
   "crowtest": ["crowtest.mp3"]
 }
