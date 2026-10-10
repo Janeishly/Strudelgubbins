@@ -6,5 +6,19 @@
   "tbd": ["tbd.mp3"],
   "crowtest": ["crowtest.mp3"],
   "fuckoff1": ["fuckoff1.mp3"],
-  "fuckoff2": ["fuckoff2.mp3"]
+  "fuckoff2": ["fuckoff2.mp3"],
+  "energise": ["energise.mp3"],
+  "alert": ["alert.mp3"],
+  "beacon": ["beacon.mp3"],
+  "chirp": ["chirp.mp3"],
+  "inaccurate": ["inaccurate.mp3"],
+  "intercom": ["intercom.mp3"],
+  "mccoy": ["mccoy.mp3"],
+  "planet": ["planet.mp3"],
+  "shuttle": ["shuttle.mp3"],
+  "spock": ["spock.mp3"],
+  "swoosh": ["swoosh.mp3"],
+  "tribble": ["tribble.mp3"],
+  "unabletocomply": ["unabletocomply.mp3"],
+  "whistle": ["whistle.mp3"]
 }
