@@ -5,6 +5,6 @@
   "rings": ["rings.mp3"],
   "tbd": ["tbd.mp3"],
   "crowtest": ["crowtest.mp3"],
-  "fuckoff1": [fuckoff1.mp3"],
-  "fuckoff2": [fuckoff2.mp3"]
+  "fuckoff1": ["fuckoff1.mp3"],
+  "fuckoff2": ["fuckoff2.mp3"]
 }
