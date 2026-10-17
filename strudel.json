@@ -10,6 +10,7 @@
   "energise": ["energise.mp3"],
   "fuckoff1": ["fuckoff1.mp3"],
   "fuckoff2": ["fuckoff2.mp3"],
+  "iam": ["iam.mp3"],
   "inaccurate": ["inaccurate.mp3"],
   "intercom": ["intercom.mp3"],
   "jungbleep": ["jungbleep.wav"],
@@ -21,9 +22,11 @@
   "switchdestroy": ["switchdestroy.mp3"],
   "swoosh": ["swoosh.mp3"],
   "thisis": ["thisis.mp3"],
+  "thisisall": ["thisisall.mp3"],
   "tribble": ["tribble.mp3"],
   "unabletocomply": ["unabletocomply.mp3"],
   "ushag": ["ushag.mp3"],
+  "weare": ["weare.mp3"],
   "whistle": ["whistle.mp3"]
 
 }
