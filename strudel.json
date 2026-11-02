@@ -18,6 +18,7 @@
   "planet": ["planet.mp3"],
   "rings": ["rings.mp3"],
   "shuttle": ["shuttle.mp3"],
+  "silenced": ["silenced.mp3"],
   "spock": ["spock.mp3"],
   "switchdestroy": ["switchdestroy.mp3"],
   "swoosh": ["swoosh.mp3"],
